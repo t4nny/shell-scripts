@@ -328,7 +328,7 @@ printlnpg "Scanning the area for active stations"
 scan_area
 
 show_detected_stations
-
+      
 if [[ $yes_to_all -eq 1 ]]; then
     main_attack
     exit 0
