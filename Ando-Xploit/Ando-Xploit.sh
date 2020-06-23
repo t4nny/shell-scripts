@@ -23,7 +23,6 @@ printf "\n"
 printf "Copying This Code Without Credits Will Open The Hell Ports For You and scratch your fireball too -_- \n\n"
 
 }             
-
 start()
 {
 
